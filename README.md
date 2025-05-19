@@ -80,4 +80,4 @@ Pull request dan ide pengembangan sangat diterima. Yuk sama-sama belajar bareng!
 
 ## 🧑‍💻 Author
 
-Irawan Tri — [LinkedIn](https://www.linkedin.com/in/tri-irawan-262a17294/)
+Irawan — [LinkedIn](https://www.linkedin.com/in/tri-irawan-262a17294/)
